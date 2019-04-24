@@ -1,2 +1,1 @@
-# git
-how to user Git
+this is lession Git
